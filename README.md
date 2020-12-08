@@ -19,7 +19,7 @@
 ```
 #### 初始化运行环境
 ```shell
-[root@localhost ~]# git clone https://gitee.com/frombyte_admin/fcda-server.git
+[root@localhost ~]# git clone https://github.com/from-zihao/zxzj.git
 [root@localhost ~]# cd zxzj
 [root@localhost ~]# python3 -m venv venv
 [root@localhost ~]# source venv/bin/activate
